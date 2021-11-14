@@ -4,7 +4,7 @@ creator,Creator,
 date,Date Acquired,
 description,Description,
 subject,Primary Color Association(s),true
-location,Location in Physical Collection
+location,Location in Physical Collection,true
 source,Material,true
 identifier,Unique Identifier,
 recipient,Set Size,true
