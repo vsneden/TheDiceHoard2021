@@ -1,5 +1,6 @@
 field,display_name,search
 date,Date,true
 creator,Creator,true
-subject,Subjects,true
+subject,Primary Color Association(s),true
 location,Location,true
+source,Material,true
