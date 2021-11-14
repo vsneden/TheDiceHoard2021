@@ -14,9 +14,11 @@ credits: true
 
 ## About the Hoard
 This photo collection is a digital represenation of the physical dice collection that lives in my apartment. Of the 54 sets included in this collection, 49 of them are from my personal collection (pictured below) with the other 5 coming from my partner's collection. Not featured in this collection are the single extra dice that have come as bonuses when purchasing full dice sets, from jewelry, or just standalone purchases for a gimmick reason. 
+
 {% include feature/image.html objectid=coll055 width="50" %}
 
 These dice sets are used to play Dungeons and Dragons (and other tabletop roleplaying games), and each set consists of 7 dice. The dice are named for the number of sides each die has, ranging from 4 to 20 sides. Pictured below (from left to right), is a d6, a d8, a d10, a d10 percentile, a d12, a d4, and a d20.
+
 {% include feature/image.html objectid=coll057 width="50" %}
 
 Pretty much every dice is used when you're playing a D&D game, but the most common dice is the d20, as that is what is used to determine if you hit enemies, spot traps, pet horses, and do pretty much everything in the game. 
