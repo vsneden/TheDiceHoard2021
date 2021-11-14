@@ -1,5 +1,7 @@
 field,display_name
 title,Title
-date,Date
 description,Description
-subject,Subjects
+subject,Primary Color Association(s)
+source,Material
+recipient,Set Size
+item_information, Roll Surfaces
