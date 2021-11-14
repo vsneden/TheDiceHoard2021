@@ -12,7 +12,7 @@ featured-image: coll055
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 12em # Default is 8em
 # optional: change position of background image, center, top, bottom
-home-banner-image-position: bottom # Default is center
+home-banner-image-position: top # Default is center
 #height of the carousel at the bottom of the page inn px, default is 300
 carousel-height: 400
 #if you'd like to feature specific subjects on the front page, fill in the below with subjects and separate them with semi-colons.
@@ -22,12 +22,6 @@ featured-subjects-max: 5 # set number of top subjects to display if auto-generat
 #Same as subjects above, leave blank for automatically generated locations
 featured-locations: # separate by ;
 featured-locations-max: 5 # set number of top locations if automatically generated
-
-##########
-# ABOUT PAGE
-#
-# featured image on about page
-about-featured-image: coll056
 
 ##########
 # ITEM PAGE
