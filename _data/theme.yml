@@ -8,11 +8,11 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: coll055
+featured-image: coll056
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 12em # Default is 8em
 # optional: change position of background image, center, top, bottom
-home-banner-image-position: top # Default is center
+home-banner-image-position:  # Default is center
 #height of the carousel at the bottom of the page inn px, default is 300
 carousel-height: 400
 #if you'd like to feature specific subjects on the front page, fill in the below with subjects and separate them with semi-colons.
