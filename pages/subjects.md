@@ -8,7 +8,7 @@ permalink: /subjects.html
 cloud-fields: site.data.theme.subjects-fields
 ---
 
-## Browse Subjects
+## Browse Primary Color Association(s)
 
-Use this word cloud visualization to browse terms and subjects.
+This word cloud is a visual representation of all colors found in the various dice sets in this collection.
 Word size is determined by frequency and all words link to a corresponding collection search.
